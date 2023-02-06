@@ -256,9 +256,15 @@ body {
     letter-spacing: 0.02em;
     line-height: 1.5;
 }
+/*
 .nav.link:hover,
 .nav.link:focus {
-    color:var(--text)
+    background-color: #31D0AA;
+    color:var( --active-button);
+}*/
+.link:hover,
+.link:focus {
+    color:var( --active-button);
 }
 .menu-mob-navigation .link.current,
 .navigation .link.current {
