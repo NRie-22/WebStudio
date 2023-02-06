@@ -1,0 +1,24 @@
+@media  screen and (min-width:480px) {
+.container{
+max-width: 458px;
+}
+}
+@media screen and (min-width:320px) {
+.picture {
+display: none;
+}
+.mob-menu-close-button{
+position: static;
+}
+}
+@media screen and (min-width:320px) and (max-width:430px) {
+.blue-big-mob {
+font-size: 22px;
+}
+}
+@media screen and (min-width:320px) and (max-width:388px) {
+.menu-list-sotial-link {
+justify-content: space-between;
+column-gap: 0px;
+}
+}
