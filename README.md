@@ -21,10 +21,10 @@ This project is the website of a website development company. It is created as a
 ### Screenshots
 
 #### Desktop View (JPG)
-<img src="screenshots/desktop-view.jpg" width="400" alt="Desktop View">
+<img src="screenshots/desktop-view.jpg" width="600" alt="Desktop View">
 
 #### Mobile View (JPG)
-<img src="screenshots/mobile-view.jpg" width="200" alt="Mobile View">
+<img src="screenshots/mobile-view.jpg" width="300" alt="Mobile View">
 ---
 ## Installation
 
