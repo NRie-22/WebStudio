@@ -7,10 +7,10 @@ WEBSTUDIO
 ### Screenshots
 
 #### Desktop View (JPG)
-![Desktop View](screenshots/desktop view.jpg)
+![Desktop View](screenshots/desktop%20view.jpg)
 
 #### Mobile View (JPG)
-![Mobile View](screenshots/mobile view.jpg)
+![Mobile View](screenshots/mobile%20view.jpg)
 
 
 ## Description
