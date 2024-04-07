@@ -4,15 +4,6 @@ WEBSTUDIO
 
 ---
 
-### Screenshots
-
-#### Desktop View (JPG)
-<img src="screenshots/desktop-view.jpg" width="400" alt="Desktop View">
-
-#### Mobile View (JPG)
-<img src="screenshots/mobile-view.jpg" width="200" alt="Mobile View">
-
-
 ## Description
 
 This project is the website of a website development company. It is created as an individual project, where my role is a developer.
@@ -27,6 +18,14 @@ This project is the website of a website development company. It is created as a
 
 ---
 
+### Screenshots
+
+#### Desktop View (JPG)
+<img src="screenshots/desktop-view.jpg" width="400" alt="Desktop View">
+
+#### Mobile View (JPG)
+<img src="screenshots/mobile-view.jpg" width="200" alt="Mobile View">
+---
 ## Installation
 
 1. Clone the repository: `git clone https://github.com/NRie-22/WebStudio.git`
