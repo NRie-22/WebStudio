@@ -3,13 +3,14 @@
 WEBSTUDIO
 
 ---
+
 ### Screenshots
 
 #### Desktop View (JPG)
-![Desktop View](screenschots/desktop view.jpg)
+![Desktop View](screenshots/desktop_view.jpg)
 
 #### Mobile View (JPG)
-![Mobile View](screenshots/mobile view.jpg)
+![Mobile View](screenshots/mobile_view.jpg)
 
 
 ## Description
@@ -49,5 +50,3 @@ Any contributions, bug fixes, new feature suggestions are welcome! Please open a
 ## Author
 
 Nataliya Rieger
-
----
