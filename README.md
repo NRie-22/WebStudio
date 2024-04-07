@@ -1,6 +1,6 @@
 # Project Name
 
-WEBSTUDIO
+Responsive website WEBSTUDIO (mobile,tablet, desktop version)
 
 ---
 
