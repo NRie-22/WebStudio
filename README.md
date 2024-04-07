@@ -6,7 +6,7 @@ WEBSTUDIO
 ### Screenshots
 
 #### Desktop View (JPG)
-![Desktop View](screenshots/Desktop View.jpg)
+![Desktop View](screenschots/Desktop View.jpg)
 
 #### Mobile View (JPG)
 ![Mobile View](screenshots/Mobile View.jpg)
