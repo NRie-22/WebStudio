@@ -10,7 +10,7 @@ WEBSTUDIO
 <img src="screenshots/desktop-view.jpg" width="400" alt="Desktop View">
 
 #### Mobile View (JPG)
-<img src="screenshots/mobile-view.jpg" width="400" alt="Mobile View">
+<img src="screenshots/mobile-view.jpg" width="200" alt="Mobile View">
 
 
 ## Description
